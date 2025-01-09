@@ -7,7 +7,7 @@
 ##Input we need from the user 
 
 #Total rent 
-#Total food ordered for snacking 
+#Total food ordered for snacking sa
 #Electricity units spend
 #Charge per unit 
 # Input   members 

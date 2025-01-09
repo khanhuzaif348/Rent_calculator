@@ -17,6 +17,8 @@
 
  # **total amount you're to pay is**  
 
+# **Python Code**
+
 rent = int(input("Enter your flat rent: - "))
 
 food = int(input("Enter food has ordered : - "))
